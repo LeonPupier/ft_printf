@@ -2,10 +2,10 @@ NAME	=	libftprintf.a
 CFLAGS	=	-Wall -Wextra -Werror
 
 HEADERS	=	ft_printf.h 
-SRCS	=	libft.a \
-			ft_printf.c \
-			ft_display_arg.c \
+SRCS	=	ft_printf.c \
 			ft_functions.c \
+			ft_display_arg.c \
+			ft_putnbr_base.c \
 
 OBJS	=	$(SRCS:.c=.o)
 
