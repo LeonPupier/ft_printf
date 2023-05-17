@@ -1,6 +1,6 @@
 # ft_printf
 
-This project was completed as part of the curriculum at École 42. The goal of the project is to implement a version of the printf function from the C standard library, and to learn about variable argument lists and string manipulation in the process.
+This project was completed as part of the curriculum at École 42. The goal of the project is to implement a version of the printf function from the C standard library, and to learn about variable argument lists and string manipulation in the process. 
 
 ## Installation
 
